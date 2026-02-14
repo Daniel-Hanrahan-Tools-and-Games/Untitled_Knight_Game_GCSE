@@ -33,3 +33,11 @@ Conditions:
    copyleft license.
 
 Effect on licensing:
+
+- Content covered by GNU GPL v3.0: May instead be used under the
+  BSD 3-Clause License.
+
+- Content not covered by GNU GPL v3.0: Assets originally under CC BY-SA 4.0
+  may instead be used under CC BY 4.0.
+
+These exceptions apply **only when at least one of the conditions above is met**.
