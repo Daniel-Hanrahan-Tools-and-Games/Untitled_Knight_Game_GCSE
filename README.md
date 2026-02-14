@@ -3,7 +3,7 @@ A Game Creation System Version of Untitled_Knight_Game_Compacted for Roblox.
 
 Both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript.
 
-<a href="https://www.roblox.com/games/132973690189790/The-Crusade-Campaign-For-Iberia-GCSE">Play Game in Roblox Here</a>
+<a href="https://www.roblox.com/games/76236502825430/Untitled-Knight-Game-GCSE">Play Game in Roblox Here</a>
 
 <h3>Both of these links take you to Untitled_Knight_Game</h3>
 
