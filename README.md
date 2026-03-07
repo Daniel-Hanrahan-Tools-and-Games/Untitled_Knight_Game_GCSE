@@ -7,9 +7,9 @@ Both source code and game is under .rbxl file but however source code is in Star
 
 <h3>Both of these links take you to Untitled_Knight_Game</h3>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Untitled_Knight_Game">Untitled_Knight_Game Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bowling_Mega_Mix">Bowling_Mega_Mix Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/Untitled_Knight_Game/">Untitled_Knight_Game ReadMe Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Bowling_Mega_Mix/">Bowling_Mega_Mix ReadMe Page</a>
 
 
 
